@@ -1,0 +1,5 @@
+1. (Memento) Se tiene un documento que se versiona cada vez que se guarda un cambio,
+pero solo podemos volver a un estado anterior con el método revertir (ctrl+z) o deshacer
+cambios hacia adelante (ctrl+y), se tiene 4 cambios y usamos el método revertir hasta
+volver a1 primer cambio, luego usamos el método deshacer hasta llegar al último
+cambio.
