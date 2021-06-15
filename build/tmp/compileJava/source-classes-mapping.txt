@@ -1,0 +1,134 @@
+segundoParcial/filaB/ejercicio2ChainOfResponsability/Cliente.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.Cliente
+segundoParcial/filaA/ejercicio1Memento/StorageOriginator.java
+ segundoParcial.filaA.ejercicio1Memento.StorageOriginator
+segundoParcial/filaA/ejercicio3Observer/RegisteredUser.java
+ segundoParcial.filaA.ejercicio3Observer.RegisteredUser
+segundoParcial/filaB/ejercicio1Memento/StateFile.java
+ segundoParcial.filaB.ejercicio1Memento.StateFile
+segundoParcial/filaA/ejercicio3Observer/IUser.java
+ segundoParcial.filaA.ejercicio3Observer.IUser
+segundoParcial/filaB/ejercicio3Observer/Person.java
+ segundoParcial.filaB.ejercicio3Observer.Person
+segundoParcial/filaA/ejercicio4Strategy/Cliente.java
+ segundoParcial.filaA.ejercicio4Strategy.Cliente
+segundoParcial/filaA/ejercicio4Strategy/OrderCI.java
+ segundoParcial.filaA.ejercicio4Strategy.OrderCI
+segundoParcial/filaB/ejercicio2ChainOfResponsability/Chat.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.Chat
+segundoParcial/filaB/ejercicio4Strategy/OrderName.java
+ segundoParcial.filaB.ejercicio4Strategy.OrderName
+segundoParcial/filaB/ejercicio5State/Computadora.java
+ segundoParcial.filaB.ejercicio5State.Computadora
+segundoParcial/filaA/ejercicio5State/Computadora.java
+ segundoParcial.filaA.ejercicio5State.Computadora
+segundoParcial/filaA/ejercicio2ChainOfResponsability/Chat.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.Chat
+segundoParcial/filaA/ejercicio4Strategy/OrderProfession.java
+ segundoParcial.filaA.ejercicio4Strategy.OrderProfession
+segundoParcial/filaA/ejercicio3Observer/IFacebook.java
+ segundoParcial.filaA.ejercicio3Observer.IFacebook
+segundoParcial/filaB/ejercicio1Memento/Client.java
+ segundoParcial.filaB.ejercicio1Memento.Client
+segundoParcial/filaB/ejercicio5State/Reiniciar.java
+ segundoParcial.filaB.ejercicio5State.Reiniciar
+segundoParcial/filaA/ejercicio2ChainOfResponsability/Estudiante.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.Estudiante
+segundoParcial/filaA/ejercicio5State/IState.java
+ segundoParcial.filaA.ejercicio5State.IState
+segundoParcial/filaA/ejercicio3Observer/Person.java
+ segundoParcial.filaA.ejercicio3Observer.Person
+segundoParcial/filaB/ejercicio4Strategy/Cliente.java
+ segundoParcial.filaB.ejercicio4Strategy.Cliente
+segundoParcial/filaA/ejercicio3Observer/PostsFacebook.java
+ segundoParcial.filaA.ejercicio3Observer.PostsFacebook
+segundoParcial/filaA/ejercicio4Strategy/User.java
+ segundoParcial.filaA.ejercicio4Strategy.User
+segundoParcial/filaB/ejercicio3Observer/IWebPage.java
+ segundoParcial.filaB.ejercicio3Observer.IWebPage
+segundoParcial/filaA/ejercicio2ChainOfResponsability/Cliente.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.Cliente
+segundoParcial/filaB/ejercicio2ChainOfResponsability/Estudiante.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.Estudiante
+segundoParcial/filaA/ejercicio4Strategy/IOrderDB.java
+ segundoParcial.filaA.ejercicio4Strategy.IOrderDB
+segundoParcial/filaA/ejercicio1Memento/Client.java
+ segundoParcial.filaA.ejercicio1Memento.Client
+segundoParcial/filaA/ejercicio2ChainOfResponsability/Administrativos.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.Administrativos
+segundoParcial/filaA/ejercicio1Memento/SaveDocumentCareTaker.java
+ segundoParcial.filaA.ejercicio1Memento.SaveDocumentCareTaker
+segundoParcial/filaA/ejercicio2ChainOfResponsability/Docente.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.Docente
+segundoParcial/filaB/ejercicio4Strategy/OrderCI.java
+ segundoParcial.filaB.ejercicio4Strategy.OrderCI
+segundoParcial/filaB/ejercicio3Observer/RegisteredUser.java
+ segundoParcial.filaB.ejercicio3Observer.RegisteredUser
+segundoParcial/filaB/ejercicio3Observer/Post.java
+ segundoParcial.filaB.ejercicio3Observer.Post
+segundoParcial/filaB/ejercicio4Strategy/OrderDateBorn.java
+ segundoParcial.filaB.ejercicio4Strategy.OrderDateBorn
+segundoParcial/filaA/ejercicio5State/Prendido.java
+ segundoParcial.filaA.ejercicio5State.Prendido
+segundoParcial/filaB/ejercicio4Strategy/OrderProfession.java
+ segundoParcial.filaB.ejercicio4Strategy.OrderProfession
+segundoParcial/filaA/ejercicio5State/Apagado.java
+ segundoParcial.filaA.ejercicio5State.Apagado
+segundoParcial/filaB/ejercicio5State/Cliente.java
+ segundoParcial.filaB.ejercicio5State.Cliente
+segundoParcial/filaB/ejercicio2ChainOfResponsability/Docente.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.Docente
+segundoParcial/filaB/ejercicio5State/Apagado.java
+ segundoParcial.filaB.ejercicio5State.Apagado
+segundoParcial/filaB/ejercicio5State/Prendido.java
+ segundoParcial.filaB.ejercicio5State.Prendido
+segundoParcial/filaA/ejercicio5State/Reiniciar.java
+ segundoParcial.filaA.ejercicio5State.Reiniciar
+segundoParcial/filaA/ejercicio4Strategy/DataBase.java
+ segundoParcial.filaA.ejercicio4Strategy.DataBase
+segundoParcial/filaB/ejercicio1Memento/Versions.java
+ segundoParcial.filaB.ejercicio1Memento.Versions
+segundoParcial/filaB/ejercicio2ChainOfResponsability/Persona.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.Persona
+segundoParcial/filaA/ejercicio1Memento/Document.java
+ segundoParcial.filaA.ejercicio1Memento.Document
+segundoParcial/filaA/ejercicio5State/Cliente.java
+ segundoParcial.filaA.ejercicio5State.Cliente
+segundoParcial/filaB/ejercicio3Observer/IUser.java
+ segundoParcial.filaB.ejercicio3Observer.IUser
+segundoParcial/filaB/ejercicio4Strategy/DataBase.java
+ segundoParcial.filaB.ejercicio4Strategy.DataBase
+segundoParcial/filaB/ejercicio3Observer/PostsWebPage.java
+ segundoParcial.filaB.ejercicio3Observer.PostsWebPage
+segundoParcial/filaB/ejercicio1Memento/Versioner.java
+ segundoParcial.filaB.ejercicio1Memento.Versioner
+segundoParcial/filaA/ejercicio3Observer/Client.java
+ segundoParcial.filaA.ejercicio3Observer.Client
+segundoParcial/filaA/ejercicio1Memento/IDocument.java
+ segundoParcial.filaA.ejercicio1Memento.IDocument
+segundoParcial/filaB/ejercicio5State/IState.java
+ segundoParcial.filaB.ejercicio5State.IState
+segundoParcial/filaB/ejercicio4Strategy/IOrderDB.java
+ segundoParcial.filaB.ejercicio4Strategy.IOrderDB
+segundoParcial/filaB/ejercicio2ChainOfResponsability/Administrativos.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.Administrativos
+segundoParcial/filaA/ejercicio2ChainOfResponsability/ICanalDeComunicacion.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.ICanalDeComunicacion
+segundoParcial/filaA/ejercicio3Observer/Post.java
+ segundoParcial.filaA.ejercicio3Observer.Post
+segundoParcial/filaA/ejercicio4Strategy/OrderDateBorn.java
+ segundoParcial.filaA.ejercicio4Strategy.OrderDateBorn
+segundoParcial/filaA/ejercicio4Strategy/OrderName.java
+ segundoParcial.filaA.ejercicio4Strategy.OrderName
+segundoParcial/filaB/ejercicio1Memento/File.java
+ segundoParcial.filaB.ejercicio1Memento.File
+segundoParcial/filaB/ejercicio4Strategy/User.java
+ segundoParcial.filaB.ejercicio4Strategy.User
+segundoParcial/filaA/ejercicio1Memento/Memento.java
+ segundoParcial.filaA.ejercicio1Memento.Memento
+segundoParcial/filaA/ejercicio2ChainOfResponsability/Persona.java
+ segundoParcial.filaA.ejercicio2ChainOfResponsability.Persona
+segundoParcial/filaB/ejercicio2ChainOfResponsability/ICanalDeComunicacion.java
+ segundoParcial.filaB.ejercicio2ChainOfResponsability.ICanalDeComunicacion
+segundoParcial/filaB/ejercicio3Observer/Client.java
+ segundoParcial.filaB.ejercicio3Observer.Client
